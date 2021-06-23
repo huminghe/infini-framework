@@ -230,7 +230,7 @@ type Result struct {
 	Size       uint64
 }
 
-const userAgent = "Mozilla/5.0 (compatible; infinitbyte/1.0; +http://infini.sh/framework)"
+const userAgent = "Mozilla/5.0 (compatible; infinitbyte/1.0; +http://github.com/huminghe/infini-framework)"
 
 const ContentTypeJson = "application/json;charset=utf-8"
 const ContentTypeXml = "application/xml;charset=utf-8"
