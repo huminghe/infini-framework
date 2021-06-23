@@ -17,8 +17,8 @@ limitations under the License.
 package cluster
 
 import (
-	"infini.sh/framework/core/config"
-	"infini.sh/framework/core/util"
+	"github.com/huminghe/infini-framework/core/config"
+	"github.com/huminghe/infini-framework/core/util"
 	"log"
 	"net"
 )

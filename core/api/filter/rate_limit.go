@@ -18,7 +18,7 @@ package filter
 
 import (
 	"fmt"
-	"infini.sh/framework/core/api/router"
+	"github.com/huminghe/infini-framework/core/api/router"
 	"io"
 	"net/http"
 	"sync"

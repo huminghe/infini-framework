@@ -1,11 +1,11 @@
 package admin
 
 import (
-	"infini.sh/framework/core/api"
-	"infini.sh/framework/core/api/router"
-	"infini.sh/framework/modules/ui/admin/console"
-	"infini.sh/framework/modules/ui/admin/dashboard"
-	"infini.sh/framework/modules/ui/common"
+	"github.com/huminghe/infini-framework/core/api"
+	"github.com/huminghe/infini-framework/core/api/router"
+	"github.com/huminghe/infini-framework/modules/ui/admin/console"
+	"github.com/huminghe/infini-framework/modules/ui/admin/dashboard"
+	"github.com/huminghe/infini-framework/modules/ui/common"
 	"net/http"
 )
 

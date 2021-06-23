@@ -5,7 +5,7 @@ package dashboard
 
 import (
 	"fmt"
-	"infini.sh/framework/modules/ui/common"
+	"github.com/huminghe/infini-framework/modules/ui/common"
 	"io"
 	"net/http"
 )

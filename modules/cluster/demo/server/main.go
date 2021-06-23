@@ -18,8 +18,8 @@ package server
 
 import (
 	"context"
-	"infini.sh/framework/core/rpc"
-	pb "infini.sh/framework/modules/cluster/demo/helloworld"
+	"github.com/huminghe/infini-framework/core/rpc"
+	pb "github.com/huminghe/infini-framework/modules/cluster/demo/helloworld"
 	"log"
 )
 

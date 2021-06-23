@@ -3,7 +3,7 @@ package main
 import (
 	"sync"
 
-	"infini.sh/framework/core/dag"
+	"github.com/huminghe/infini-framework/core/dag"
 )
 
 var wg = &sync.WaitGroup{}

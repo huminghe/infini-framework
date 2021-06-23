@@ -2,7 +2,7 @@ package pprof
 
 import (
 	"fmt"
-	"infini.sh/framework/core/util"
+	"github.com/huminghe/infini-framework/core/util"
 	"regexp"
 	"sort"
 )

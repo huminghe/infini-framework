@@ -18,7 +18,7 @@ package pipeline
 
 import (
 	log "github.com/cihub/seelog"
-	"infini.sh/framework/core/errors"
+	"github.com/huminghe/infini-framework/core/errors"
 	"reflect"
 )
 

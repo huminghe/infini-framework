@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/boltdb/bolt"
-	"infini.sh/framework/core/cluster/raft"
+	"github.com/huminghe/infini-framework/core/cluster/raft"
 )
 
 func testBoltStore(t testing.TB) *BoltStore {

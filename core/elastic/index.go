@@ -1,7 +1,7 @@
 package elastic
 
 import (
-	"infini.sh/framework/core/util"
+	"github.com/huminghe/infini-framework/core/util"
 	"strings"
 )
 

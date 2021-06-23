@@ -16,7 +16,7 @@ limitations under the License.
 
 package ui
 
-import "infini.sh/framework/core/config"
+import "github.com/huminghe/infini-framework/core/config"
 
 type UIConfig struct {
 	Enabled       bool                 `config:"enabled"`

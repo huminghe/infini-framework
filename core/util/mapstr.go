@@ -7,7 +7,7 @@ package util
 import (
 	"encoding/json"
 	"fmt"
-	"infini.sh/framework/core/errors"
+	"github.com/huminghe/infini-framework/core/errors"
 	"strings"
 )
 

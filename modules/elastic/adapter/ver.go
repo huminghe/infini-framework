@@ -19,8 +19,8 @@ package adapter
 import (
 	"encoding/json"
 	"fmt"
-	"infini.sh/framework/core/elastic"
-	"infini.sh/framework/core/util"
+	"github.com/huminghe/infini-framework/core/elastic"
+	"github.com/huminghe/infini-framework/core/util"
 )
 
 func ClusterVersion(config *elastic.ElasticsearchConfig) (elastic.ClusterVersion, error) {

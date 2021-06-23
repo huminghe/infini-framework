@@ -4,8 +4,8 @@ import (
 	"fmt"
 	log "github.com/cihub/seelog"
 	"github.com/quipo/statsd"
-	. "infini.sh/framework/core/config"
-	"infini.sh/framework/core/stats"
+	. "github.com/huminghe/infini-framework/core/config"
+	"github.com/huminghe/infini-framework/core/stats"
 	"sync"
 	"time"
 )

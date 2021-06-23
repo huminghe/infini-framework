@@ -18,11 +18,11 @@ package pipeline
 
 import (
 	"encoding/json"
-	"infini.sh/framework/core/errors"
-	"infini.sh/framework/core/kv"
-	"infini.sh/framework/core/orm"
-	"infini.sh/framework/core/pipeline"
-	"infini.sh/framework/core/util"
+	"github.com/huminghe/infini-framework/core/errors"
+	"github.com/huminghe/infini-framework/core/kv"
+	"github.com/huminghe/infini-framework/core/orm"
+	"github.com/huminghe/infini-framework/core/pipeline"
+	"github.com/huminghe/infini-framework/core/util"
 	"time"
 )
 

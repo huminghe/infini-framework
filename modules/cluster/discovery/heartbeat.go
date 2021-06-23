@@ -19,7 +19,7 @@ package discovery
 import (
 	"context"
 	log "github.com/cihub/seelog"
-	pb "infini.sh/framework/core/cluster/pb"
+	pb "github.com/huminghe/infini-framework/core/cluster/pb"
 )
 
 type Discovery struct {

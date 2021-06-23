@@ -16,7 +16,7 @@ limitations under the License.
 
 package pipeline
 
-import "infini.sh/framework/core/pipeline"
+import "github.com/huminghe/infini-framework/core/pipeline"
 
 // PipeRunnerConfig defines module related configs
 type PipeRunnerConfig struct {

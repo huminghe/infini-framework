@@ -18,7 +18,7 @@ package global
 
 import (
 	"errors"
-	"infini.sh/framework/core/env"
+	"github.com/huminghe/infini-framework/core/env"
 	"runtime"
 	"sync"
 )

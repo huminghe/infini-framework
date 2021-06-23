@@ -17,10 +17,10 @@ limitations under the License.
 package boltdb
 
 import (
-	"infini.sh/framework/core/config"
-	"infini.sh/framework/core/global"
-	"infini.sh/framework/core/kv"
-	"infini.sh/framework/modules/boltdb/boltdb"
+	"github.com/huminghe/infini-framework/core/config"
+	"github.com/huminghe/infini-framework/core/global"
+	"github.com/huminghe/infini-framework/core/kv"
+	"github.com/huminghe/infini-framework/modules/boltdb/boltdb"
 	"os"
 	"path"
 )

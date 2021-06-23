@@ -6,8 +6,8 @@ package common
 import (
 	"fmt"
 	"html"
-	"infini.sh/framework/core/api"
-	"infini.sh/framework/core/global"
+	"github.com/huminghe/infini-framework/core/api"
+	"github.com/huminghe/infini-framework/core/global"
 	"io"
 	"net/http"
 )

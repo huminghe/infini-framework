@@ -16,7 +16,7 @@ limitations under the License.
 
 package api
 
-import "infini.sh/framework/core/config"
+import "github.com/huminghe/infini-framework/core/config"
 
 type APIConfig struct {
 	Enabled       bool                 `config:"enabled"`

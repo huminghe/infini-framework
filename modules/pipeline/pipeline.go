@@ -18,10 +18,10 @@ package pipeline
 
 import (
 	log "github.com/cihub/seelog"
-	. "infini.sh/framework/core/config"
-	"infini.sh/framework/core/errors"
-	"infini.sh/framework/core/global"
-	"infini.sh/framework/core/pipeline"
+	. "github.com/huminghe/infini-framework/core/config"
+	"github.com/huminghe/infini-framework/core/errors"
+	"github.com/huminghe/infini-framework/core/global"
+	"github.com/huminghe/infini-framework/core/pipeline"
 )
 
 var started bool

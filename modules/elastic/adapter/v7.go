@@ -22,9 +22,9 @@ import (
 	"errors"
 	"fmt"
 	log "github.com/cihub/seelog"
-	"infini.sh/framework/core/elastic"
-	"infini.sh/framework/core/global"
-	"infini.sh/framework/core/util"
+	"github.com/huminghe/infini-framework/core/elastic"
+	"github.com/huminghe/infini-framework/core/global"
+	"github.com/huminghe/infini-framework/core/util"
 	"strings"
 )
 

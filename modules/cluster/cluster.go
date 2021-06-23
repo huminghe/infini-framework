@@ -1,13 +1,13 @@
 package cluster
 
 import (
-	"infini.sh/framework/core/cluster"
-	pb "infini.sh/framework/core/cluster/pb"
-	"infini.sh/framework/core/config"
-	"infini.sh/framework/core/global"
-	"infini.sh/framework/core/rpc"
-	"infini.sh/framework/modules/cluster/demo/server"
-	"infini.sh/framework/modules/cluster/discovery"
+	"github.com/huminghe/infini-framework/core/cluster"
+	pb "github.com/huminghe/infini-framework/core/cluster/pb"
+	"github.com/huminghe/infini-framework/core/config"
+	"github.com/huminghe/infini-framework/core/global"
+	"github.com/huminghe/infini-framework/core/rpc"
+	"github.com/huminghe/infini-framework/modules/cluster/demo/server"
+	"github.com/huminghe/infini-framework/modules/cluster/discovery"
 )
 
 type ClusterModule struct {

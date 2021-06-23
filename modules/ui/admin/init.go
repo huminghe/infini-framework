@@ -17,10 +17,10 @@ limitations under the License.
 package admin
 
 import (
-	"infini.sh/framework/core/api"
-	"infini.sh/framework/core/ui"
-	"infini.sh/framework/modules/ui/admin/ajax"
-	"infini.sh/framework/modules/ui/common"
+	"github.com/huminghe/infini-framework/core/api"
+	"github.com/huminghe/infini-framework/core/ui"
+	"github.com/huminghe/infini-framework/modules/ui/admin/ajax"
+	"github.com/huminghe/infini-framework/modules/ui/common"
 )
 
 // InitUI register ui handlers

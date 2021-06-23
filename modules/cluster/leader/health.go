@@ -17,8 +17,8 @@ limitations under the License.
 package leader
 
 //import (
-//	"infini.sh/framework/core/rpc"
-//	."infini.sh/framework/core/cluster/pb"
+//	"github.com/huminghe/infini-framework/core/rpc"
+//	."github.com/huminghe/infini-framework/core/cluster/pb"
 //	"context"
 //	log "github.com/cihub/seelog"
 //)

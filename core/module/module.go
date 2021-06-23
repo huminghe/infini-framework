@@ -18,7 +18,7 @@ package module
 
 import (
 	log "github.com/cihub/seelog"
-	"infini.sh/framework/core/env"
+	"github.com/huminghe/infini-framework/core/env"
 )
 
 type Modules struct {

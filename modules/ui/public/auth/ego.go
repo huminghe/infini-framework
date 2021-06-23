@@ -6,8 +6,8 @@ package auth
 import (
 	"fmt"
 	"html"
-	"infini.sh/framework/core/util"
-	"infini.sh/framework/modules/ui/common"
+	"github.com/huminghe/infini-framework/core/util"
+	"github.com/huminghe/infini-framework/modules/ui/common"
 	"io"
 	"net/http"
 )

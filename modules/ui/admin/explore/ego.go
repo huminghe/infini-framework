@@ -5,7 +5,7 @@ package explore
 
 import (
 	"fmt"
-	"infini.sh/framework/core/ui/common"
+	"github.com/huminghe/infini-framework/core/ui/common"
 	"io"
 	"net/http"
 )

@@ -3,10 +3,10 @@ package elastic
 import (
 	"encoding/json"
 	log "github.com/cihub/seelog"
-	"infini.sh/framework/core/elastic"
-	"infini.sh/framework/core/errors"
-	"infini.sh/framework/core/global"
-	"infini.sh/framework/core/queue"
+	"github.com/huminghe/infini-framework/core/elastic"
+	"github.com/huminghe/infini-framework/core/errors"
+	"github.com/huminghe/infini-framework/core/global"
+	"github.com/huminghe/infini-framework/core/queue"
 	"runtime"
 )
 

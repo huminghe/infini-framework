@@ -19,7 +19,7 @@ package vfs
 import (
 	"fmt"
 	"github.com/stretchr/testify/assert"
-	"infini.sh/framework/core/util"
+	"github.com/huminghe/infini-framework/core/util"
 	"io/ioutil"
 	"testing"
 )

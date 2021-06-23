@@ -19,9 +19,9 @@ package ajax
 import (
 	"encoding/json"
 	log "github.com/cihub/seelog"
-	api "infini.sh/framework/core/api"
-	"infini.sh/framework/core/config"
-	logging "infini.sh/framework/core/logger"
+	api "github.com/huminghe/infini-framework/core/api"
+	"github.com/huminghe/infini-framework/core/config"
+	logging "github.com/huminghe/infini-framework/core/logger"
 	"net/http"
 )
 

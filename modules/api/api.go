@@ -17,8 +17,8 @@ limitations under the License.
 package api
 
 import (
-	"infini.sh/framework/core/api"
-	"infini.sh/framework/core/config"
+	"github.com/huminghe/infini-framework/core/api"
+	"github.com/huminghe/infini-framework/core/config"
 )
 
 // Name return API

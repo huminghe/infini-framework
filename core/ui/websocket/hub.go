@@ -6,9 +6,9 @@ package websocket
 
 import (
 	"encoding/json"
-	"infini.sh/framework/core/global"
-	"infini.sh/framework/core/logger"
-	"infini.sh/framework/core/stats"
+	"github.com/huminghe/infini-framework/core/global"
+	"github.com/huminghe/infini-framework/core/logger"
+	"github.com/huminghe/infini-framework/core/stats"
 	"strings"
 	"time"
 )

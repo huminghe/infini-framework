@@ -21,8 +21,8 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"infini.sh/framework/core/elastic"
-	"infini.sh/framework/core/util"
+	"github.com/huminghe/infini-framework/core/elastic"
+	"github.com/huminghe/infini-framework/core/util"
 	"strings"
 )
 

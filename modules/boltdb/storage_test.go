@@ -19,10 +19,10 @@ package boltdb
 import (
 	"fmt"
 	"github.com/stretchr/testify/assert"
-	. "infini.sh/framework/core/env"
-	"infini.sh/framework/core/global"
-	"infini.sh/framework/core/kv"
-	"infini.sh/framework/core/util"
+	. "github.com/huminghe/infini-framework/core/env"
+	"github.com/huminghe/infini-framework/core/global"
+	"github.com/huminghe/infini-framework/core/kv"
+	"github.com/huminghe/infini-framework/core/util"
 	"os"
 	"testing"
 )

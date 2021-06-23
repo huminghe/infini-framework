@@ -17,16 +17,16 @@ limitations under the License.
 package modules
 
 import (
-	"infini.sh/framework/core/module"
-	"infini.sh/framework/modules/api"
-	"infini.sh/framework/modules/boltdb"
-	"infini.sh/framework/modules/cluster"
-	"infini.sh/framework/modules/elastic"
-	"infini.sh/framework/modules/filter"
-	"infini.sh/framework/modules/pipeline"
-	"infini.sh/framework/modules/queue"
-	"infini.sh/framework/modules/stats"
-	"infini.sh/framework/modules/ui"
+	"github.com/huminghe/infini-framework/core/module"
+	"github.com/huminghe/infini-framework/modules/api"
+	"github.com/huminghe/infini-framework/modules/boltdb"
+	"github.com/huminghe/infini-framework/modules/cluster"
+	"github.com/huminghe/infini-framework/modules/elastic"
+	"github.com/huminghe/infini-framework/modules/filter"
+	"github.com/huminghe/infini-framework/modules/pipeline"
+	"github.com/huminghe/infini-framework/modules/queue"
+	"github.com/huminghe/infini-framework/modules/stats"
+	"github.com/huminghe/infini-framework/modules/ui"
 )
 
 // RegisterSystemModule is where modules are registered

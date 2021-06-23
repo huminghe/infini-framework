@@ -20,9 +20,9 @@ import (
 	"net/http"
 
 	"encoding/json"
-	"infini.sh/framework/core/api"
-	"infini.sh/framework/core/api/router"
-	"infini.sh/framework/core/pipeline"
+	"github.com/huminghe/infini-framework/core/api"
+	"github.com/huminghe/infini-framework/core/api/router"
+	"github.com/huminghe/infini-framework/core/pipeline"
 	"strconv"
 )
 

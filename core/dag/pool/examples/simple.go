@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"infini.sh/framework/core/dag/pool"
+	"github.com/huminghe/infini-framework/core/dag/pool"
 	"sync"
 )
 

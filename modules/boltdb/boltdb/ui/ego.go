@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"github.com/boltdb/bolt"
 	"html"
-	"infini.sh/framework/modules/ui/common"
+	"github.com/huminghe/infini-framework/modules/ui/common"
 	"io"
 	"net/http"
 	"path/filepath"

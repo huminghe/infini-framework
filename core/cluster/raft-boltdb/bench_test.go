@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"infini.sh/framework/core/cluster/raft/bench"
+	"github.com/huminghe/infini-framework/core/cluster/raft/bench"
 )
 
 func BenchmarkBoltStore_FirstIndex(b *testing.B) {

@@ -30,7 +30,7 @@ import (
 	"fmt"
 	log "github.com/cihub/seelog"
 	"golang.org/x/net/proxy"
-	"infini.sh/framework/core/errors"
+	"github.com/huminghe/infini-framework/core/errors"
 	"io"
 )
 

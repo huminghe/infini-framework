@@ -17,8 +17,8 @@ limitations under the License.
 package pipeline
 
 import (
-	"infini.sh/framework/core/env"
-	"infini.sh/framework/core/errors"
+	"github.com/huminghe/infini-framework/core/env"
+	"github.com/huminghe/infini-framework/core/errors"
 	"time"
 )
 
